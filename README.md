@@ -8,4 +8,5 @@
 - [X] Intermediate HTML
 - [X] Multi Page Sites
 - [X] Capstone Project 1
-- [ ] Intro to CSS
+- [X] Intro to CSS
+- [ ] CSS Properties

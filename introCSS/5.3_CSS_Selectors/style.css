@@ -17,4 +17,27 @@ ol {
   list-style-position: inside;
 }
 
-/* Write your CSS below, don't change the rules above. */
+/* Element Selector */
+p {
+  color: red;
+}
+
+/* Class Selector */
+.note {
+  font-size: 20px;
+}
+
+/* ID Selector */
+#id-selector-demo {
+  color: green;
+}
+
+/* All list elements with value set to 4 */
+li[value="4"] {
+  color: blue;
+}
+
+/* Global assignment */
+* {
+  text-align: center;
+}

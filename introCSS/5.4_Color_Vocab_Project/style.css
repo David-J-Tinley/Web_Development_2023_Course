@@ -1,0 +1,41 @@
+/************************************************
+*
+* Project: webDev2023Course
+* File: introCSS/5.4_Color_Vocab_Project/style.css
+*
+* Date Created: 
+* Date Modified: 
+*
+* Author: David J Tinley
+* Description: 
+*
+************************************************/
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: rgb(26, 167, 228);
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
