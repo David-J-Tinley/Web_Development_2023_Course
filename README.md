@@ -1,6 +1,6 @@
-# Web_Development_2023_Course
+# Complete Web Development 2023 Course
 
-## Dr. Angela Yu's 2023 Web Development Course
+## By: Dr. Angela Yu
 
 ### Sections Completed
 
@@ -9,4 +9,5 @@
 - [X] Multi Page Sites
 - [X] Capstone Project 1
 - [X] Intro to CSS
-- [ ] CSS Properties
+- [X] CSS Properties
+- [ ] Intermediate CSS
