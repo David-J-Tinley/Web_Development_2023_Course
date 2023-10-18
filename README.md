@@ -1,8 +1,8 @@
 # Complete Web Development 2023 Course
 
-## By: Dr. Angela Yu
+- By: Dr. Angela Yu
 
-### Sections Completed
+## Sections Completed
 
 - [X] Intro to HTML
 - [X] Intermediate HTML
