@@ -1,17 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <title>CSS Flag Project</title>
-  <style>
-    /* Write your CSS Code here */
-    
-  </style>
-</head>
+  <head>
+    <meta charset="UTF-8">
+    <title>CSS Flag Project</title>
+    <style>
+      /* Write your CSS Code here */
+      .flag {
+        position: relative;
+        background-color: red;
+        width: 900px;
+        height: 600px;
+      }
 
-<!-- 
-  IMPORTANT! Do not change any HTML
+      .flag>div {
+        background-color: #00009c;
+        position: absolute;
+        top: 150px;
+        width: 900px;
+        height: 300px;
+      }
+
+      .flag>div>div {
+        background-color: white;
+        position: absolute;
+        height: 200px;
+        width: 200px;
+        left: 350px;
+        top: 50px;
+        border-radius: 50%;
+      }
+
+      .flag>p {
+        color: white;
+        position: relative;
+        left: 50%;
+      }
+    </style>
+  </head>
+
+  <!-- 
+IMPORTANT! Do not change any HTML
 Don't add any classes/ids/elements 
 Use what you know about combining selectors 
 and CSS specificity instead.
@@ -20,15 +49,15 @@ Hint 2: You can use CSS inspection to get the colors from
 https://appbrewery.github.io/flag-of-laos/
 -->
 
-<body>
-  <div class="flag">
-    <p>The Flag</p>
-    <div>
+  <body>
+    <div class="flag">
+      <p>The Flag</p>
       <div>
-        <p>of Laos</p>
+        <div>
+          <p>of Laos</p>
+        </div>
       </div>
     </div>
-  </div>
-</body>
+  </body>
 
 </html>
