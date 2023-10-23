@@ -1,6 +1,7 @@
 # Complete Web Development 2023 Course
 
-- By: Dr. Angela Yu
+Web development course that covers all topics of modern front end development.
+By: Dr. Angela Yu
 
 ## Sections Completed
 
@@ -10,4 +11,5 @@
 - [X] Capstone Project 1
 - [X] Intro to CSS
 - [X] CSS Properties
-- [ ] Intermediate CSS
+- [X] Intermediate CSS
+- [ ] Advanced CSS
