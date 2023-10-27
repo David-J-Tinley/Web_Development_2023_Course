@@ -14,8 +14,72 @@ h1 {
   font-size: 5rem;
 }
 
+.left_card {
+  float: left;
+  width: 45%;
+}
+
+.right_card {
+  float: right;
+  width: 45%;
+}
+
+.left_card img {
+  height: 200px;
+  float: left;
+  margin-right: 50px;
+}
+
+.right_card img {
+  height: 200px;
+  float: left;
+  margin-right: 50px;
+}
+
+.creative {
+  color: midnightblue;
+}
+
 footer {
   text-align: right;
   color: midnightblue;
 }
 
+@media (max-width: 680px) {
+  .logo {
+    width: 100px;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+    text-align: center;
+  }
+
+  .left_card {
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+    text-align: justify;
+  }
+
+  .left_card img {
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline;
+    object-fit: cover;
+  }
+
+    .right_card {
+      width: 100%;
+      display: block;
+      margin-bottom: 30px;
+      text-align: justify;
+    }
+  
+    .right_card img {
+      margin-bottom: 10px;
+      width: 100%;
+      display: inline;
+      object-fit: cover;
+    }
+}
