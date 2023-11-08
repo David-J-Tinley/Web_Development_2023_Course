@@ -4,7 +4,7 @@ Web development course that covers all topics of modern front end development.
 
 By: Dr. Angela Yu
 
-## Sections Completed
+## TODO:
 
 - [x] Intro to HTML
 - [x] Intermediate HTML
