@@ -14,4 +14,6 @@ By: Dr. Angela Yu
 - [x] CSS Properties
 - [x] Intermediate CSS
 - [x] Advanced CSS
-- [ ] Flexbox
+- [X] Flexbox
+- [X] Grid
+- [ ] Bootstrap
