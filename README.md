@@ -17,4 +17,6 @@ By: Dr. Angela Yu
 - [x] Flexbox
 - [x] Grid
 - [x] Bootstrap
-- [ ] Web Design Theory
+- [x] Web Design Theory
+- [x] Capstone Project 2
+- [ ] Intro to Javascript
