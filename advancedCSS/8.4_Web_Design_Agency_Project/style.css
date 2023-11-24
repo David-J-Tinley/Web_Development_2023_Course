@@ -69,17 +69,17 @@ footer {
     object-fit: cover;
   }
 
-    .right_card {
-      width: 100%;
-      display: block;
-      margin-bottom: 30px;
-      text-align: justify;
-    }
-  
-    .right_card img {
-      margin-bottom: 10px;
-      width: 100%;
-      display: inline;
-      object-fit: cover;
-    }
+  .right_card {
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+    text-align: justify;
+  }
+
+  .right_card img {
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline;
+    object-fit: cover;
+  }
 }

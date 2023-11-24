@@ -12,30 +12,30 @@
 ************************************************/
 
 img {
-    height: 200px;
-    width: 200px;
+  height: 200px;
+  width: 200px;
 }
 
 .color-title {
-    font-weight: normal;
+  font-weight: normal;
 }
 
 #red {
-    color: red;
+  color: red;
 }
 
 #blue {
-    color: rgb(26, 167, 228);
+  color: rgb(26, 167, 228);
 }
 
 #orange {
-    color: orange;
+  color: orange;
 }
 
 #green {
-    color: green;
+  color: green;
 }
 
 #yellow {
-    color: yellow;
+  color: yellow;
 }
