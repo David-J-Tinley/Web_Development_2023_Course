@@ -19,4 +19,5 @@ By: Dr. Angela Yu
 - [x] Bootstrap
 - [x] Web Design Theory
 - [x] Capstone Project 2
-- [ ] Intro to Javascript
+- [x] Intro to Javascript
+- [ ] Intermediate Javascript
