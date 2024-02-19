@@ -1,5 +1,5 @@
 /*********************************************************************************
- *     File Name           :     /Users/djt/Desktop/Web_Development_2023_Course/intermediateJS/loveCalculatorV2.js
+ *     File Name           :     /intermediateJS/loveCalculatorV2.js
  *     Created By          :     David J Tinley
  *     Creation Date       :     [2023-12-02 21:42]
  *     Last Modified       :     [2023-12-03 16:18]
