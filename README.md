@@ -20,4 +20,5 @@ By: Dr. Angela Yu
 - [x] Web Design Theory
 - [x] Capstone Project 2
 - [x] Intro to Javascript
-- [ ] Intermediate Javascript
+- [x] Intermediate Javascript
+- [ ] Document Object Model
